@@ -1,2 +1,15 @@
 # holbertonschool-web_front_end
-In this project, you will learn how to use HTML tags to structure a web page. No CSS, no styling - don’t worry, the final page will be “ugly” it’s normal, it’s not the purpose of this project.
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+* Selectors, properties, and values
+* The difference between block and inline styling
+* How to ensure consistency across all browers (CSS reset)
+* How to setup CSS variables
+* The differences between inline, embeded and external CSS
+* How grid systems work (with floats)
+* The difference between icons webfonts and SVG icons
+* The difference between pseudo-classes and pseudo-elements
+* How to make background gradients
+* How to animate elements in CSS
+* How to transform (2d, 3d) elements
+* What vendor prefixes are
